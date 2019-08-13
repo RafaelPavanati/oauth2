@@ -1,0 +1,7 @@
+package com.cicloi.services;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class PerfilService {
+}

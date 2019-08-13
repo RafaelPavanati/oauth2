@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      database: customers
+      uri: mongodb://localhost:27017
+server:
+  port: 8089
+
+security:
+  oauth2:
+    resource:
+      filter-order: 3
